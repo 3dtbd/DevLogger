@@ -1,0 +1,1 @@
+{"name":"org.wizardscode.devlogger","displayName":"Wizards Code - DevLogger","version":"0.3.0","unity":"2019.4","description":"Open source Editor tool for managing DevLogs in Unity.","keywords":["Editor Tools"],"category":"Scripts","dependencies":{"com.unity.postprocessing":"2.3.0"}}

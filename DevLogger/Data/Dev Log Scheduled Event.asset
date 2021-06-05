@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d529006fca0564d8f3141f071e6a9f, type: 3}
+  m_Name: Dev Log Scheduled Event
+  m_EditorClassIdentifier: 
+  m_ScheduleType: 0
+  m_DayOfWeek: 6
+  m_TimeOfDay: 75600
+  m_PostToTwitter: 0
+  m_TwitterHashtag: '#ScreenshotSaturday'
+  m_PostToDiscord: 1
+  m_DevLogGUID: c93753a296444f242819c49eb1c9cc0d
+  m_LastDoneDateTime: 132385825766713515
+  m_DevLogEntry: {fileID: -2206365541272676410, guid: c93753a296444f242819c49eb1c9cc0d,
+    type: 2}
